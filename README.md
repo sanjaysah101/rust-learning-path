@@ -24,7 +24,7 @@ This repository is a **Cargo Workspace**. You can run specific assignments using
 To run the Library Management System:
 
 ```bash
-cargo run -p 01-book-management
+cargo run -p book_management
 ```
 
 ## 📝 License

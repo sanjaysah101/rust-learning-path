@@ -22,5 +22,5 @@ Create a `Book` struct that can change its status between `Available`, `CheckedO
 Run the project from the root directory:
 
 ```bash
-cargo run -p 01-basics-book-manager
+cargo run -p book_management
 ```
