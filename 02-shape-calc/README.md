@@ -21,6 +21,7 @@ Build a system that can calculate the area of different shapes (Circle, Rectangl
 1. Define a trait `Measurable`:
 
     * It should have a method `area(&self) -> f64`.
+    * It should have a method `fn name(&self) -> &str;`.
 
 2. Create three structs: `Circle`, `Rectangle`, and `Triangle`.
 
