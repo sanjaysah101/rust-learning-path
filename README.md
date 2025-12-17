@@ -8,8 +8,9 @@ A structured documentation of my journey learning the Rust programming language.
 |:---|:---|:---|:---|
 | **01** | **[Library Management System](./01-book-management)** | `struct`, `enum`, `impl`, Ownership, Match | ✅ Completed |
 | **02** | **[Shape Calculator](./02-shape-calc)** | Traits, Polymorphism, Vector Iteration | ✅ Completed |
-| **03** | **Generic Result Wrapper** | Generics, Error Handling | 🚧 In Progress |
-| **04** | **Inventory System** | Trait Bounds, Advanced Generics | ⏳ Pending |
+| **03** | **Generic Result Wrapper** | Generics, Error Handling |  ✅ Completed |
+| **04** | **Inventory System** | Trait Bounds, Advanced Generics | ✅ Completed |
+| **05** | **Mini JSON Parser** | Trait Bounds, Advanced Generics | 🚧 In Progress |
 
 ## 🚀 How to Run
 
