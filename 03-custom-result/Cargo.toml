@@ -1,5 +1,5 @@
 [package]
-name = "custom-result"
+name = "custom_result"
 version = "0.1.0"
 edition = "2024"
 

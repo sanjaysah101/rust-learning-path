@@ -1,4 +1,4 @@
 [workspace]
 resolver = "2"
 
-members = ["01-book-management", "02-shape-calc", "03-custom-result", "04-inventory-system"]
+members = ["01-book-management", "02-shape-calc", "03-custom-result", "04-inventory-system", "05-json-parser"]
